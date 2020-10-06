@@ -1,0 +1,38 @@
+{
+  "name": "GAWARI BLOG",
+  "short_name": "Gawari Blog",
+  "start_url": "https://gawarii.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Temukan Informasi Terupdate",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-U_wqr3OWVSA/X3yD9Mv4CiI/AAAAAAAADAo/IyJEsmMMvzkdBAaBerU3iKDK4Qc41OICgCLcBGAsYHQ/s48/gawariiii.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-U_wqr3OWVSA/X3yD9Mv4CiI/AAAAAAAADAo/IyJEsmMMvzkdBAaBerU3iKDK4Qc41OICgCLcBGAsYHQ/s72/gawariiii.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-U_wqr3OWVSA/X3yD9Mv4CiI/AAAAAAAADAo/IyJEsmMMvzkdBAaBerU3iKDK4Qc41OICgCLcBGAsYHQ/s96/gawariiii.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-U_wqr3OWVSA/X3yD9Mv4CiI/AAAAAAAADAo/IyJEsmMMvzkdBAaBerU3iKDK4Qc41OICgCLcBGAsYHQ/s144/gawariiii.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-U_wqr3OWVSA/X3yD9Mv4CiI/AAAAAAAADAo/IyJEsmMMvzkdBAaBerU3iKDK4Qc41OICgCLcBGAsYHQ/s168/gawariiii.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-U_wqr3OWVSA/X3yD9Mv4CiI/AAAAAAAADAo/IyJEsmMMvzkdBAaBerU3iKDK4Qc41OICgCLcBGAsYHQ/s192/gawariiii.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-U_wqr3OWVSA/X3yD9Mv4CiI/AAAAAAAADAo/IyJEsmMMvzkdBAaBerU3iKDK4Qc41OICgCLcBGAsYHQ/s512/gawariiii.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
